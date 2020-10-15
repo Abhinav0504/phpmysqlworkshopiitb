@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 15, 2020 at 14:31 PM
+-- Generation Time: Oct 15, 2020 at 14:42 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.4.8
 
@@ -38,7 +38,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `email`, `password`) VALUES
-(1, 'ritu2912@gmail.com', '202cb962ac59075b964b07152d234b70');
+(1, 'abhinav0504@gmail.com', '202cb962ac59075b964b07152d234b70');
 
 -- --------------------------------------------------------
 
@@ -83,7 +83,7 @@ CREATE TABLE `students` (
 
 INSERT INTO `students` (`id`, `name`, `email`, `password`) VALUES
 (1, 'Sujith', 'sujith1206@gmail.com', 'af99c8a8e5879f08181c50470dfb6e'),
-(2, 'Abhinav', 'abhinav0504@gmail.com', '202cb962ac59075b964b07152d234b');
+(2, 'Abhinav', 'ritu2912@gmail.com', '202cb962ac59075b964b07152d234b');
 
 --
 -- Indexes for dumped tables
